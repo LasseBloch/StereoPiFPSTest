@@ -34,4 +34,4 @@ resolution read from cam: 640 x 480
 ```
 
 
-No special setup, of the cameras have been done. So this just serves as a crudebaseline
+No special setup, of the cameras have been done. So this just serves as a crude baseline
